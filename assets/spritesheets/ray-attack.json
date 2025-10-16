@@ -4,8 +4,8 @@
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 100 },
-    "s
-    
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
    },
    "ray attack 1.aseprite": {
     "frame": { "x": 100, "y": 0, "w": 100, "h": 100 },
