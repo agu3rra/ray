@@ -13,7 +13,7 @@ def main():
     size = [SCREEN_WIDTH, SCREEN_HEIGHT]
     screen = pygame.display.set_mode(size)
 
-    pygame.display.set_caption("Ray's Game")
+    pygame.display.set_caption("Ray & a Sobrecarga")
 
     # Create the player
     player = Player()
